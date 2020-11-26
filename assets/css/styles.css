@@ -109,12 +109,13 @@ header.masthead h2 {
     display: block;
     max-width: 25rem;
     margin-bottom: 15px;
+    background-color: rgba(48, 51, 107, 0.7);
 }
 
 .portfolio .portfolio-item .portfolio-item-caption {
     -webkit-transition: all ease 0.5s;
     transition: all ease 0.5s;
-    opacity: 0;
+    opacity: 1;
     background-color: rgba(48, 51, 107, 0.7);
 }
 
@@ -126,7 +127,7 @@ header.masthead h2 {
     .portfolio-item
     .portfolio-item-caption
     .portfolio-item-caption-content {
-    font-size: 1.5rem;
+    font-size: 1.0rem;
 }
 
 @media (min-width: 576px) {
