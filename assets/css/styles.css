@@ -121,6 +121,7 @@ header.masthead h2 {
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
     opacity: 1;
+    background-color: rgba(48, 51, 107, 0.7);
 }
 
 .portfolio
