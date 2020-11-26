@@ -116,7 +116,7 @@ header.masthead h2 {
     -webkit-transition: all ease 0.5s;
     transition: all ease 0.5s;
     opacity: 1;
-    background-color: rgba(48, 51, 107, 0.7);
+    background-color: rgba(48, 100, 107, 0.7);
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
